@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blidir.github.io/my-blog/posts/hello-world/</loc>
+    <loc>https://blog.blidir.fun/posts/hello-world/</loc>
     <lastmod>2025-06-16T22:01:05+07:00</lastmod>
   </url><url>
-    <loc>https://blidir.github.io/my-blog/</loc>
+    <loc>https://blog.blidir.fun/</loc>
     <lastmod>2025-06-16T22:01:05+07:00</lastmod>
   </url><url>
-    <loc>https://blidir.github.io/my-blog/posts/</loc>
+    <loc>https://blog.blidir.fun/posts/</loc>
     <lastmod>2025-06-16T22:01:05+07:00</lastmod>
   </url><url>
-    <loc>https://blidir.github.io/my-blog/tags/</loc>
+    <loc>https://blog.blidir.fun/tags/</loc>
   </url>
 </urlset>
