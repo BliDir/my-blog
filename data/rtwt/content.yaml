@@ -1,0 +1,13 @@
+home:
+  image: 'images/bio.png'
+  greetings: "Exploring Tech, One Step at a Time"
+  text: "A simple place to keep notes, share learnings, and track my journey through debugging, tools, and tech experiments."
+
+side:
+  home:
+  - content: 'Oh, and did I mention it has support for static side pane content? Cool, right?'
+  - title: 'Media Support'
+    content: 'Side content can have images!'
+    imagePath: 'images/hugo.svg'
+    imageHref: 'https://gohugo.io'
+    imageWidth: '100%'
