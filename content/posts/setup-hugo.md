@@ -1,6 +1,6 @@
 +++
 date = '2025-06-20T10:46:02+07:00'
-draft = true
+draft = false
 title = 'Building My Blog with Hugo, GitHub Pages, and Cloudflare'
 tags = ["blog"]
 topics = ["blog"]
@@ -95,9 +95,9 @@ git push
 ```
 
 ## Setting Up GitHub Pages
-n my GitHub repository:
+In my GitHub repository:
 
-- I enabled GitHub Pages under the repo’s settings
+- I enabled GitHub Pages under the repo's settings
 
 - I set the source to the gh-pages branch
 
@@ -110,22 +110,22 @@ To connect my domain:
 
 - I added my domain to Cloudflare
 
-- Updated my domain registrar to use Cloudflare’s nameservers
+- Updated my domain registrar to use Cloudflare's nameservers
 
 - Created DNS records that point to GitHub Pages
 
-- Enabled “Always Use HTTPS” and caching rules
+- Enabled "Always Use HTTPS" and caching rules
 
 Within minutes, my blog was live on my custom domain with HTTPS.
 
 ## Writing Blog Posts
-Here’s what creating a new post looks like:
+Here's what creating a new post looks like:
 ```bash
 hugo new posts/my-first-post.md
 ```
-Then I just write the post in Markdown, save it, commit, and push. That’s it — the blog updates itself.
+Then I just write the post in Markdown, save it, commit, and push. That's it — the blog updates itself.
 
 ## Final Thoughts
 This setup is exactly what I was looking for: a fast, free, and elegant way to share my thoughts and projects without managing servers or logins.
 
-If you're thinking of starting a tech blog — whether for notes, tutorials, or side projects — I highly recommend giving Hugo + GitHub Pages + Cloudflare a try. It’s simple, efficient, and it just works.
+If you're thinking of starting a tech blog — whether for notes, tutorials, or side projects — I highly recommend giving Hugo + GitHub Pages + Cloudflare a try. It's simple, efficient, and it just works.

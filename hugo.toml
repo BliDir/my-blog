@@ -6,12 +6,6 @@ title = 'Logs and Learnings'
   [[module.imports]]
     path = "github.com/math-queiroz/rusty-typewriter"
 
-[author]
-  name = "Made Agus"
-  email = "imade.agusdirawan@gmail.com"
-  [author.social]
-    github = "BliDir"
-
 [rusty_typewriter]
   [params.rtwt]
     sidePane = false
