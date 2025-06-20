@@ -32,6 +32,8 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Download dependencies
+        run: hugo mod tidy
 
       - name: Build
         run: hugo --minify
