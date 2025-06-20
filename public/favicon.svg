@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- White filled rectangle with black stroke -->
+  <rect x="2" y="2" width="60" height="60" rx="10" ry="10" fill="white" stroke="black" stroke-width="4"/>
+  
+  <!-- Black text in center -->
+  <text x="50%" y="50%" font-size="24" font-family="Helvetica, sans-serif" fill="black" 
+        text-anchor="middle" dominant-baseline="middle">
+    BD
+  </text>
+</svg>
