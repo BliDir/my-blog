@@ -1,5 +1,5 @@
 home:
-  image: 'images/bio.png'
+  image: 'images/avatar.png'
   greetings: "Exploring Tech, One Step at a Time"
   text: "A simple place to keep notes, share learnings, and track my journey through debugging, tools, and tech experiments."
 
